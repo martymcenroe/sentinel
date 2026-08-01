@@ -9,7 +9,7 @@
     "deploy": "wrangler deploy"
   },
   "devDependencies": {
-    "vitest": "^3.2.6",
+    "vitest": "^4.1.10",
     "wrangler": "^4.115.0"
   }
 }
